@@ -1,6 +1,6 @@
 # docker-nano
 
-The GNU [__nano__](https://www.nano-editor.org/) text editor as docker container
+The GNU [__nano__](https://www.nano-editor.org/) text editor... as docker container!
 
 ## Usage
 ```sh
