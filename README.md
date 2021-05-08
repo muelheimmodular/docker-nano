@@ -4,7 +4,7 @@ The GNU [__nano__](https://www.nano-editor.org/) text editor... as docker contai
 
 ## Usage
 ```sh
-docker run --rm -v $(pwd):/ muelheimmodular/nano
+docker run --rm -ti -v $PWD:/nano muelheimmodular/nano Example.txt
 ```
 
 ---
